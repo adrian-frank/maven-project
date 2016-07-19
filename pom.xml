@@ -75,7 +75,7 @@
 				<configuration>
 					<deploymentType>cloudhub</deploymentType>
 					<muleVersion>3.7.3</muleVersion>
-					<username>adrianf</username>
+					<username>adrian_frank</username>
 					<password>Anymav1s67</password>
 					<workerType>Micro</workerType>
 					<redeploy>true</redeploy>
